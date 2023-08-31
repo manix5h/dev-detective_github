@@ -1,4 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
+
   --lm-bg: #f6f8ff;
   --lm-bg-content: #fefefe;
   --lm-text: #4b6a9b;
